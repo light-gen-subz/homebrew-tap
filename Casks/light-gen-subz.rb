@@ -1,6 +1,6 @@
 cask "light-gen-subz" do
-  version "1.0.0"
-  sha256 "303d6f9695d5c6715f8e6357677b98c3c4d62d05ec2d6838f18c3503746a8dd1"
+  version "1.0.1"
+  sha256 "c9a83effd56e49bea0d154de115865c15ecf72742ac2a46a728c50953c6d44a4"
 
   url "https://github.com/light-gen-subz/light-gen-subz/releases/download/v#{version}/LightGenSubz_aarch64.app.tar.gz"
   name "LightGenSubz"
